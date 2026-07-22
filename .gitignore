@@ -1,0 +1,25 @@
+# React
+vehicle-rental-frontend/node_modules/
+vehicle-rental-frontend/build/
+
+# ASP.NET Core
+vehicle-renta-backend/bin/
+vehicle-rental-backend/obj/
+
+# Python
+vehicle-rental-ai/__pycache__/
+vehicle-rental-ai/.venv/
+vehicle-rental-ai/venv/
+*.pyc
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment variables
+.env
